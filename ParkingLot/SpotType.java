@@ -1,0 +1,3 @@
+enum SpotType {
+    MOTORCYCLE, COMPACT, REGULAR
+}
